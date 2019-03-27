@@ -1,0 +1,12 @@
+{
+"apkDownloadUrl": "https://raw.githubusercontent.com/techGay/v9porn/master/apk/app-v1.1.0.apk",
+"updateMessage": "
+1. 修复9*porn视频无法播放问题\n
+2. 修复妹子图列表无法加载问题\n
+3. 优化论坛帖子内容图片显示问题\n
+4. 去掉一些依赖，升级了部分库版本，最低api支持为19，即4.4以上\n
+6. 其他改动调整及bug修复
+",
+"versionCode": 11,
+"versionName": "1.1.0"
+}
